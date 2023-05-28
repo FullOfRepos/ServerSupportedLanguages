@@ -1,2 +1,3 @@
-example.key="Hello!"
-example.greeting="Welcome to the server"
+lobby.greeting="Welcome to SkyPieaMC"
+lobby.rulesalert="Don't forget to read the rules!"
+
