@@ -10,7 +10,7 @@ gui.action.language.changed=Language has been changed to:
 gui.translated.credit=Translated by:
 
 # Guis
-gui.translatorgui.title=Langauge Selector
+gui.translatorgui.title=Language Selector
 
 # Lobby
 lobby.greeting=Welcome to SkyPieaMC
