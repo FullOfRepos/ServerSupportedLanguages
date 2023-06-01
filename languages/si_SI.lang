@@ -1,3 +1,15 @@
-lobby.greeting="Dobrodošli na SkyPieaMC"
-lobby.rulesalert="Ne pozabi prebrat pravil!"
-lobby.discordalert="Ne pozabi se pridružit našemu discord serverju"
+# GUI Manager
+gui.pagination.nextpage=Nasledna stran
+gui.pagination.nextpage.lore=Pojdi na naslednjo stran
+gui.pagination.previouspage=Prejšna stran
+gui.pagination.previouspage.lore=Pojdi na prejšno stran
+gui.pagination.page=Stran
+gui.action.language.changed=Jezik je bil spremenjen na:
+
+# Guis
+gui.translatorgui.title=Izbira jezikov
+
+# Lobby
+lobby.greeting=Dobrodošli na SkyPieaMC
+lobby.rulesalert=Mulo preber pravila!
+lobby.discordalert=Ne pozabi pridi v naš Discord stržnik!
