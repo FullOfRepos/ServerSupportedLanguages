@@ -3,9 +3,11 @@ gui.pagination.nextpage=Next Page
 gui.pagination.nextpage.lore=Go to the next page
 gui.pagination.previouspage=Previous Page
 gui.pagination.previouspage.lore=Go to the previous page
+gui.pagination.page=Page
+gui.action.language.changed=Language has been changed to:
 
 # Guis
-gui.type.translatorgui.name=Langauge Selector
+gui.type.translatorgui.title=Langauge Selector
 
 # Lobby
 lobby.greeting=Welcome to SkyPieaMC
