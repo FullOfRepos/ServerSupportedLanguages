@@ -1,3 +1,6 @@
+#Author
+translation.author=JernejTDO
+
 # GUI Manager
 gui.pagination.nextpage=Nasledna stran
 gui.pagination.nextpage.lore=Pojdi na naslednjo stran
@@ -5,6 +8,7 @@ gui.pagination.previouspage=Prejšna stran
 gui.pagination.previouspage.lore=Pojdi na prejšno stran
 gui.pagination.page=Stran
 gui.action.language.changed=Jezik je bil spremenjen na:
+gui.translated.credit=Prevedil je:
 
 # Guis
 gui.translatorgui.title=Izbira jezikov
