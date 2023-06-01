@@ -1,4 +1,11 @@
-gui.translatorgui.name=Langauge Selector
+# GUI Manager
+gui.base.nextpage.button.name=Next Page
+gui.base.nextpage.button.lore=Go to the next page
+gui.base.previouspage.button.name=Previous Page
+gui.base.previouspage.button.lore=Go to the previous page
+# Guis
+gui.type.translatorgui.name=Langauge Selector
+# Lobby
 lobby.greeting=Welcome to SkyPieaMC
 lobby.rulesalert=Don't forget to read the rules!
 lobby.discordalert=Don't forget to join our discord server!
