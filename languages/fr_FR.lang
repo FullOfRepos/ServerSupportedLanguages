@@ -1,0 +1,18 @@
+#Author
+translation.author=Strom7
+# GUI Manager
+gui.pagination.nextpage=Page suivante
+gui.pagination.nextpage.lore=Aller à la page suivante
+gui.pagination.previouspage=Page précédente
+gui.pagination.previouspage.lore=Aller à la page précédente
+gui.pagination.page=Page
+gui.action.language.changed=La langue a été changé en:
+gui.translated.credit=Traduit par:
+
+# Guis
+gui.translatorgui.title=Sélecteur de langue
+
+# Lobby
+lobby.greeting=Bienvenue à SkyPieaMC
+lobby.rulesalert=N'oublie pas de lire les règles!
+lobby.discordalert=N'oublie pas de rejoindre notre serveur Discord!
