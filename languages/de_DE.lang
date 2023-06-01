@@ -10,6 +10,6 @@ gui.action.language.changed=Sprache wurde gewechselt zu:
 gui.translatorgui.title=Sprachauswahl
 
 # Lobby
-lobby.greeting=Willkommen in SkyPieaMC
+lobby.greeting=Willkommen bei SkyPieaMC
 lobby.rulesalert=Vergesse nicht die Regel zu lesen!
 lobby.discordalert=Vergesse nicht unserem Discord Server beizutreten!
