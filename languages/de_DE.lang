@@ -8,7 +8,7 @@ gui.pagination.previouspage=Vorherige Seite
 gui.pagination.previouspage.lore=Gehe zur vorherigen Seite
 gui.pagination.page=Page
 gui.action.language.changed=Sprache wurde gewechselt zu: 
-gui.translated.credit=Übersetzt von:
+gui.translated.credit=Übersetzt durch:
 
 # Guis
 gui.translatorgui.title=Sprachauswahl
