@@ -7,7 +7,7 @@ gui.pagination.page=Page
 gui.action.language.changed=Language has been changed to:
 
 # Guis
-gui.type.translatorgui.title=Langauge Selector
+gui.translatorgui.title=Langauge Selector
 
 # Lobby
 lobby.greeting=Welcome to SkyPieaMC
