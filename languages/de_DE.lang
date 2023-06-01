@@ -1,0 +1,15 @@
+# GUI Manager
+gui.pagination.nextpage=Nächste Seite
+gui.pagination.nextpage.lore=Gehe zur nächsten Seite
+gui.pagination.previouspage=Vorherige Seite
+gui.pagination.previouspage.lore=Gehe zur vorherigen Seite
+gui.pagination.page=Page
+gui.action.language.changed=Sprache wurde gewechselt zu: 
+
+# Guis
+gui.translatorgui.title=Sprachauswahl
+
+# Lobby
+lobby.greeting=Willkommen in SkyPieaMC
+lobby.rulesalert=Vergesse nicht die Regel zu lesen!
+lobby.discordalert=Vergesse nicht unserem Discord Server beizutreten!
