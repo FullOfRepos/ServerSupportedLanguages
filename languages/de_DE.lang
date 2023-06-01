@@ -1,3 +1,6 @@
+#Author
+translation.author=KarmaMinecraft
+
 # GUI Manager
 gui.pagination.nextpage=Nächste Seite
 gui.pagination.nextpage.lore=Gehe zur nächsten Seite
@@ -5,6 +8,7 @@ gui.pagination.previouspage=Vorherige Seite
 gui.pagination.previouspage.lore=Gehe zur vorherigen Seite
 gui.pagination.page=Page
 gui.action.language.changed=Sprache wurde gewechselt zu: 
+gui.translated.credit=Übersetzt von:
 
 # Guis
 gui.translatorgui.title=Sprachauswahl
