@@ -7,6 +7,7 @@ gui.pagination.previouspage=Previous Page
 gui.pagination.previouspage.lore=Go to the previous page
 gui.pagination.page=Page
 gui.action.language.changed=Language has been changed to:
+gui.translated.credit=Translated by:
 
 # Guis
 gui.translatorgui.title=Langauge Selector
