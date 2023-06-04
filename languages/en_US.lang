@@ -17,9 +17,9 @@ lobby.greeting=Welcome to SkyPieaMC
 lobby.rulesalert=Don't forget to read the rules!
 lobby.discordalert=Don't forget to join our discord server!
 # Lobby Items
-gameselector.name=Game Selector
-cosmeticselector.name=Cosmetic Menu
+gameselector.name=Games
+cosmeticselector.name=Cosmetics
 lobbyselector.name=Lobby Selector
-friendselector.name=Friends Menu
-settingsselector.name=Settings Menu
+friendselector.name=Friends
+settingsselector.name=Settings
 musicplayer.name=Music Player
