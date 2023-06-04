@@ -15,5 +15,12 @@ gui.translatorgui.title=Izbira jezikov
 
 # Lobby
 lobby.greeting=Dobrodošli na SkyPieaMC
-lobby.rulesalert=Mulo preber pravila!
-lobby.discordalert=Ne pozabi pridi v naš Discord stržnik!
+lobby.rulesalert=Ne pozabi prebrati pravil!
+lobby.discordalert=Ne pozabi priti v naš Discord stržnik!
+# Lobby Items
+gameselector.name=Igre
+cosmeticselector.name=Kozmetični meni
+lobbyselector.name=Sobe
+friendselector.name=Prijatelji
+settingsselector.name=Nastavitve
+musicplayer.name=Predvajalnik Glasbe
