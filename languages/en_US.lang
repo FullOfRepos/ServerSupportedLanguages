@@ -1,16 +1,16 @@
 #Author
-translation.author=MathiasClari
+translation.author=<color:#b9b9b9>MathiasClari
 # GUI Manager
 gui.pagination.nextpage=Next Page
 gui.pagination.nextpage.lore=Go to the next page
 gui.pagination.previouspage=Previous Page
 gui.pagination.previouspage.lore=Go to the previous page
 gui.pagination.page=Page
-gui.action.language.changed=Language has been changed to:
-gui.translated.credit=Translated by:
+gui.action.language.changed=<color:#eea209>Language has been changed to:
+gui.translated.credit=<color:#eea209>Translated by:
 
 # Guis
-gui.translatorgui.title=Language Selector
+gui.translatorgui.title=<color:#eea209>Language Selector
 
 # Lobby
 lobby.greeting=Welcome to SkyPieaMC
