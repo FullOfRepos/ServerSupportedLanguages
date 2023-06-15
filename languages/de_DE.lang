@@ -1,5 +1,5 @@
 #Author
-translation.author=KarmaMinecraft
+translation.author=<color:#b9b9b9>KarmaMinecraft
 
 # GUI Manager
 gui.pagination.nextpage=Nächste Seite
@@ -7,11 +7,11 @@ gui.pagination.nextpage.lore=Gehe zur nächsten Seite
 gui.pagination.previouspage=Vorherige Seite
 gui.pagination.previouspage.lore=Gehe zur vorherigen Seite
 gui.pagination.page=Page
-gui.action.language.changed=Sprache wurde gewechselt zu: 
-gui.translated.credit=Übersetzt durch:
+gui.action.language.changed=<color:#eea209>Sprache wurde gewechselt zu: 
+gui.translated.credit=<color:#eea209>Übersetzt durch:
 
 # Guis
-gui.translatorgui.title=Sprachauswahl
+gui.translatorgui.title=<color:#eea209>Sprachauswahl
 
 # Lobby
 lobby.greeting=Willkommen bei SkyPieaMC
