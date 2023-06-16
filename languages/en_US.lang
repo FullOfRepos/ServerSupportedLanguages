@@ -1,5 +1,3 @@
-#Author
-translation.author=<color:#b9b9b9> MathiasClari
 # GUI Manager
 gui.pagination.nextpage=Next Page
 gui.pagination.nextpage.lore=Go to the next page
@@ -11,7 +9,6 @@ gui.comingsoon=<color:#4f4f4f>Coming Soon
 # Translation Gui
 gui.translatorgui.title=<color:#e19313><b>Language Selector
 gui.translatorgui.changelanguageto=<color:#8b8592>Change your language to:<color:#e19313> English
-gui.translated.credit=<color:#8b8592>Translated by:
 gui.action.language.changed=<color:#8b8592>Language has been changed to:<color:#e19313> English<b>
 gui.translatorgui.clicktochnage=<color:#e19313>Click to change your language!
 gui.translatorgui.supported.games=<color:#8b8592>Supported Games:
