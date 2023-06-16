@@ -1,5 +1,5 @@
 #Author
-translation.author=JernejTDO
+translation.author=<color:#e19313><b> JernejTDO
 
 # GUI Manager
 gui.pagination.nextpage=Nasledna stran
@@ -10,8 +10,12 @@ gui.pagination.page=Stran
 gui.action.language.changed=Jezik je bil spremenjen na:
 gui.translated.credit=Prevedil je:
 
-# Guis
-gui.translatorgui.title=Izbira jezikov
+# Translation Gui
+gui.translatorgui.title=<color:#e19313><b>Izbirnik jezika
+gui.translatorgui.changelanguageto=<color:#8b8592>Spremeni jezik v:<color:#e19313> Slovenščino<b>
+gui.translated.credit=<color:#8b8592>Prevedeno od:
+gui.action.language.changed=<color:#8b8592>Jezik je bil spremenjen na:<color:#e19313> Slovenščino<b>
+gui.translatorgui.clicktochnage=<color:#e19313>Klikni da zamenjaš svoj jezik!
 
 # Lobby
 lobby.greeting=Dobrodošli na SkyPieaMC
