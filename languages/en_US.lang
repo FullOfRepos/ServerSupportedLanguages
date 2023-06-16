@@ -6,11 +6,13 @@ gui.pagination.nextpage.lore=Go to the next page
 gui.pagination.previouspage=Previous Page
 gui.pagination.previouspage.lore=Go to the previous page
 gui.pagination.page=Page
-gui.action.language.changed=<color:#eea209>Language has been changed to:
-gui.translated.credit=<color:#eea209>Translated by:
 
-# Guis
-gui.translatorgui.title=<color:#eea209>Language Selector
+# Translation Gui
+gui.translatorgui.title=<color:#e19313><b>Language Selector
+gui.translatorgui.changelanguageto=<color:#8b8592>Change your langauge to:<color:#e19313> English<b>
+gui.translated.credit=<color:#8b8592>Translated by:<color:#e19313><b>
+gui.action.language.changed=<color:#8b8592>Language has been changed to:<color:#e19313> English<b>
+gui.translatorgui.clicktochnage=<color:#e19313>Click to change your language!
 
 # Lobby
 lobby.greeting=Welcome to SkyPieaMC
