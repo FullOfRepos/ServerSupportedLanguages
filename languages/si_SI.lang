@@ -1,6 +1,3 @@
-#Author
-translation.author=<color:#b9b9b9> JernejTDO
-
 # GUI Manager
 gui.pagination.nextpage=Nasledna stran
 gui.pagination.nextpage.lore=Pojdi na naslednjo stran
@@ -12,7 +9,6 @@ gui.comingsoon=<color:#4f4f4f>Prihaja kmalu
 # Translation Gui
 gui.translatorgui.title=<color:#e19313><b>Izbirnik jezika
 gui.translatorgui.changelanguageto=<color:#8b8592>Spremeni jezik v:<color:#e19313> Slovenščino<b>
-gui.translated.credit=<color:#8b8592>Prevedeno od:
 gui.action.language.changed=<color:#8b8592>Jezik je bil spremenjen na:<color:#e19313> Slovenščino<b>
 gui.translatorgui.clicktochnage=<color:#e19313>Klikni da zamenjaš svoj jezik!
 gui.translatorgui.supported.games=<color:#8b8592>Podprte igre:
