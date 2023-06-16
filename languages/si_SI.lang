@@ -7,8 +7,7 @@ gui.pagination.nextpage.lore=Pojdi na naslednjo stran
 gui.pagination.previouspage=Prejšna stran
 gui.pagination.previouspage.lore=Pojdi na prejšno stran
 gui.pagination.page=Stran
-gui.action.language.changed=Jezik je bil spremenjen na:
-gui.translated.credit=Prevedil je:
+gui.comingsoon=<color:#4f4f4f>Prihaja kmalu
 
 # Translation Gui
 gui.translatorgui.title=<color:#e19313><b>Izbirnik jezika
