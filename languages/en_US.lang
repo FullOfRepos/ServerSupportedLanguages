@@ -6,6 +6,7 @@ gui.pagination.nextpage.lore=Go to the next page
 gui.pagination.previouspage=Previous Page
 gui.pagination.previouspage.lore=Go to the previous page
 gui.pagination.page=Page
+gui.comingsoon=<color:#4f4f4f>Coming Soon
 
 # Translation Gui
 gui.translatorgui.title=<color:#e19313><b>Language Selector
