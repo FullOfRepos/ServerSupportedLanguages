@@ -23,3 +23,7 @@ Thank you for your contribution in making SkyPieaMC accessible to a global commu
 ## Contact
 
 If you have any questions or need assistance, please feel free to contact us by creating support ticket on Discord!.
+
+## Statistics
+
+[![CLA assistant](https://cla-assistant.io/readme/badge/SkyPieaMC/ServerSupportedLanguages)](https://cla-assistant.io/SkyPieaMC/ServerSupportedLanguages)
