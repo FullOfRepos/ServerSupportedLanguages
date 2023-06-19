@@ -8,11 +8,12 @@ Welcome to SkyPieaMC, a Minecraft server dedicated to providing an immersive and
 
 If you're interested in helping us translate SkyPieaMC into different languages, follow these steps:
 
-1. **Create a New Branch**: Start by creating a new branch with the name of your language. For example, if you're translating into English (United States), your branch name should be `en_US - English - YourUsername`. This format includes the language code, the full language name, and your Minecraft username.
+1. **Sign CLA (Corporate License Agreement)**: To protect the rights of the translations and ensure a standardized approach, we require contributors to sign our CLA.
+[Sign here](https://cla-assistant.io/SkyPieaMC/ServerSupportedLanguages)
 
-2. **Make a Pull Request**: Within your branch, make a pull request with a fully translated language file. You can find the language files in the designated folder [here](/languages). Make sure to translate all the necessary strings and ensure accuracy.
+2. **Create a New Branch**: Start by creating a new branch with the name of your language. For example, if you're translating into English (United States), your branch name should be `en_US - English - YourUsername`. This format includes the language code, the full language name, and your Minecraft username.
 
-3. **Sign CLA (Corporate License Agreement)**: To protect the rights of the translations and ensure a standardized approach, we require contributors to sign our CLA. You can find the CLA document [here](/CLA.md). Please read it carefully, sign it, and include it with your pull request.
+3. **Make a Pull Request**: Within your branch, make a pull request with a fully translated language file. You can find the language files in the designated folder [here](/languages). Make sure to translate all the necessary strings and ensure accuracy.
 
 4. **Provide Language Validation**: We want to ensure the quality and accuracy of the translations. Therefore, we need to find or you can provide at least one person who is fluent in the translated language to review and validate the translation. They should confirm that everything is accurately translated and make any necessary corrections.
 
