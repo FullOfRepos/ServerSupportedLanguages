@@ -9,11 +9,11 @@ gui.pagination.page=Stran
 gui.comingsoon=<color:#4f4f4f>Prihaja kmalu
 
 # Translation Gui
-gui.translatorgui.title=<color:#FFC300><b>Izbirnik jezika
+gui.translatorgui.title=<color:#D2691E><b>Izbirnik jezika
 gui.translatorgui.changelanguageto=<color:#8b8592>Spremeni jezik v:<color:#D2691E> Slovenščino<b>
 gui.action.language.changed=<color:#8b8592>Jezik je bil spremenjen na:<color:#FFC300> Slovenščino<b>
 gui.translatorgui.clicktochnage=<color:#D2691E>Klikni da zamenjaš svoj jezik!
-gui.translatorgui.supported.games=<color:#8b8592>Podprte igre:
+gui.translatorgui.supported.games=<color:#8b8592>Podprte Igre:
 gui.translatorgui.skyblock=<color:#8b8592>- <color:#99CC00>SkyBlock
 gui.translatorgui.murdermystery=<color:#8b8592>- <color:#99CC00>Murder Mystery
 
