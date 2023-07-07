@@ -1,4 +1,4 @@
-language.fullname=<color:#86bbf3><b>English
+language.fullname=<color:#FFC300><b>English
 
 # GUI Manager
 gui.pagination.nextpage=Next Page
@@ -9,13 +9,13 @@ gui.pagination.page=Page
 gui.comingsoon=<color:#4f4f4f>Coming Soon
 
 # Translation Gui
-gui.translatorgui.title=<color:#e19313><b>Language Selector
-gui.translatorgui.changelanguageto=<color:#8b8592>Change your language to:<color:#e19313> English
-gui.action.language.changed=<color:#8b8592>Language has been changed to:<color:#e19313> English<b>
-gui.translatorgui.clicktochnage=<color:#e19313>Click to change your language!
+gui.translatorgui.title=<color:#FFC300><b>Language Selector
+gui.translatorgui.changelanguageto=<color:#8b8592>Change your language to:<color:#D2691E> English
+gui.action.language.changed=<color:#8b8592>Language has been changed to:<color:#FFC300> English<b>
+gui.translatorgui.clicktochnage=<color:#D2691E>Click to change your language!
 gui.translatorgui.supported.games=<color:#8b8592>Supported Games:
-gui.translatorgui.skyblock=<color:#8b8592>- <color:#e19313>SkyBlock
-gui.translatorgui.murdermystery=<color:#8b8592>- <color:#e19313>Murder Mystery
+gui.translatorgui.skyblock=<color:#8b8592>- <color:#99CC00>SkyBlock
+gui.translatorgui.murdermystery=<color:#8b8592>- <color:#99CC00>Murder Mystery
 
 
 # Lobby
