@@ -19,7 +19,7 @@ gui.translatorgui.murdermystery=<color:#8b8592>- <color:#99CC00>Murder Mystery
 
 
 # Lobby
-lobby.greeting=Welcome to SkyPieaMC
+lobby.greeting=Welcome to SkyPieaMC @player
 lobby.rulesalert=Don't forget to read the rules!
 lobby.discordalert=Don't forget to join our discord server!
 # Lobby Items
