@@ -18,7 +18,7 @@ gui.translatorgui.skyblock=<color:#8b8592>- <color:#99CC00>SkyBlock
 gui.translatorgui.murdermystery=<color:#8b8592>- <color:#99CC00>Murder Mystery
 
 # Lobby
-lobby.greeting=Dobrodošli na SkyPieaMC @player
+lobby.greeting=Dobrodošli na SkyPieaMC %player%
 lobby.rulesalert=Ne pozabi prebrati pravil!
 lobby.discordalert=Ne pozabi priti v naš Discord stržnik!
 # Lobby Items
